@@ -188,6 +188,9 @@ body{
   .btn-secondary {
   margin-top: -75px;
 }
+  .btn {
+  font-size: 10px;
+}
 }
 
 
@@ -277,3 +280,4 @@ body{
 
 /* Cuando el menú móvil está abierto, evitamos scroll del body */
 body.no-scroll{ overflow:hidden }
+
